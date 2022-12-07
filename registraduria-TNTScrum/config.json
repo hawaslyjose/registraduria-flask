@@ -1,0 +1,8 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://ben_pruebas:HCdFpD4KNr2BqbrN@cluster0.cvfgids.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "registraduria-mintic-2022"
+}
+
